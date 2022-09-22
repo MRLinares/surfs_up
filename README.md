@@ -17,8 +17,8 @@ Provide analysis of temperature trends for the months of June and December in th
 
 ## Summary
 
-&ensp;&ensp;&ensp; With averages in the low to mid 70's year-round and standard deviations of a little over ±3°, it is safe to say that a surf and ice cream shop is a smart business venture based on tempuratures alone.  While there is a range of 21° and 27° as can be seen in the second bullet point of the results, since the Lower Quartile is 69°F for December and 73°F for June, the majority of the temperatures are 70°F and above throughout the year.
+&ensp;&ensp;&ensp; With averages in the low to mid 70's year-round and standard deviations of a little over ±3°, it is safe to say that a surf and ice cream shop is a smart business venture based on tempuratures alone.  While there is a range of 21° and 27° as can be seen in the second bullet point of the results, since the Lower Quartile is 69°F for December and 73°F for June, the majority of the temperatures are 70°F and above throughout the year.  The days below 70 can still be marketable as surfers can come in for board servicing and supplies and it is never really too cold for ice cream.
 
-&ensp;&ensp;&ensp; Two additional queries would be a further analysis by station to see where on the island may be an optimal location and an overal statistical summary of precipitation and then by station for the same reason.
+&ensp;&ensp;&ensp; Additional queries that can further inform this analysis would be a breakdown by station to see where on the island may be an optimal location and an overall statistical summary of precipitation to see how many days of rain affect the island and then by station for location optimization.
 
 &ensp;&ensp;&ensp; Also, even though the data isn't present on the file and given Hawaii being in the middle of the ring of fire, wind speeds and tsunami trend data can be extremely helpful. And given that O'ahu is where the state capital is located, peak tourism data may further inform this analysis.
