@@ -17,7 +17,7 @@ Provide analysis of temperature trends for the months of June and December in th
 
 ## Summary
 
-&ensp;&ensp;&ensp; With averages in the low to mid 70's year-round and standard deviations of less than ±4°, it is safe to say that a surf and ice cream shop is a smart business venture based on tempuratures alone.  While there is a range of 21° and 27° as can be seen in the second bullet point of the results, since the Lower Quartile is 69°F for December and 73°F for June, the majority of the temperatures are 70°F and above throughout the year.  The days below 70 can still be marketable as surfers can come in for board servicing and supplies and it is never really too cold for ice cream.
+&ensp;&ensp;&ensp; With averages in the low to mid 70's year-round and standard deviations of less than ±4°, it is safe to say that a surf and ice cream shop is a smart business venture based on tempuratures alone.  While there is a range of 21° and 27° for June and Decembre, respectively, as can be seen in the second bullet point of the results, given that the Lower Quartile is 69°F for December and 73°F for June, the majority of the temperatures are 70°F and above throughout the year.  The days below 70 can still be marketable as surfers can come in for board servicing and supplies, the colder days can be time for decompressing from a busy season and shopping for supplies/ prepping the shop for the next season, and it is never really too cold for ice cream.
 
 &ensp;&ensp;&ensp; Additional queries that can further inform this analysis would be a breakdown by station to see where on the island may be an optimal location and an overall statistical summary of precipitation to see how many days of rain affect the island and then by station for location optimization.
 
